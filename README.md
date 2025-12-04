@@ -3,8 +3,8 @@
 Este é um jogo de **Batalha Naval** desenvolvido como parte de um projeto acadêmico. O jogo é executado no terminal e permite que um jogador humano enfrente uma inteligência artificial (IA).
 
 
-![tab1](imagens/tabuleiro1.png)
-![tab2](imagens/tabuleiro2.png)
+![tab1](tabuleiro1.png)
+![tab2](tabuleiro2.png)
 
 ---
 
